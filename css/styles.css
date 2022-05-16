@@ -1,0 +1,181 @@
+.NASH {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RECTAN {
+  width: 0px;
+}
+.set {
+  width: 100px;
+}
+.Xochu {
+  background-color: orangered;
+  color: white;
+  border-radius: 7px;
+  width: 100px;
+  height: 30px;
+  margin-left: 90px;
+}
+.cort {
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+.hello {
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100px;
+}
+.nomer1 {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  color: orangered;
+}
+.nomer2 {
+  margin-top: 0px;
+  font-size: 15px;
+  color: orangered;
+}
+.rEs {
+  height: 84px;
+  width: 100px;
+  padding-left: 15px;
+}
+.Logo {
+  width: 47px;
+  height: 43px;
+}
+.viber {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.VEC {
+  margin-left: 60px;
+  background-color: white;
+}
+.adres {
+  color: grey;
+}
+.men {
+  margin: 0px 0px 0px 60px;
+}
+.man {
+  margin: 0px 0px 0px 50px;
+}
+.salombrat {
+  margin-top: 0px;
+  border-top: 1px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-color: grey;
+  border-style: solid;
+  margin-left: 540px;
+  margin-right: 540px;
+  border-radius: 0px;
+}
+table table {
+  padding-right: 12px;
+}
+#Rabota {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 12px;
+  width: 100px;
+  color: grey;
+}
+#nee {
+  color: orangered;
+}
+#gramm {
+  color: grey;
+}
+#chota {
+  margin-bottom: 0px;
+}
+#qale {
+  background-color: whitesmoke;
+  border-radius: 0px;`
+  margin-top: 0px;
+}
+#qalee {
+  color: orangered;
+  background-color: rgb(227, 227, 227);
+  margin-top: 0px;
+  margin-left: 540px;
+  margin-right: 540px;
+  margin-bottom: 0px;
+  padding: 20px;
+}
+#qalene {
+  color: grey;
+  background-color: rgb(227, 227, 227);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 540px;
+  margin-right: 540px;
+}
+#qalesan {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+  background-color: rgb(227, 227, 227);
+  margin-left: 540px;
+  margin-right: 540px;
+}
+#qalesane {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgb(227, 227, 227);
+  margin-left: 540px;
+  margin-right: 540px;
+}
+#nomer {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px;
+  border-color: grey;
+}
+#chto {
+  background-color: whitesmoke;
+}
+#middle {
+  border-top: 1px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-style: solid;
+  background-color: white;
+  margin-top: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#top {
+  border-radius: 10px;
+  margin: 10px auto;
+  background-color: white;
+  width: 100%;
+}
+#bottom {
+  background-color: white;
+}
+.Xochu2 {
+  background-color: orangered;
+  color: white;
+  border-radius: 7px;
+  width: 100px;
+  height: 30px;
+  margin-left: 70px;
+}
+.borderdiv {
+  background-color: whitesmoke;
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+}
